@@ -1,0 +1,14 @@
+C:\xampp\htdocs\trabajo\c#\gitHub\bin\Debug\net7.0\gitHub.exe
+C:\xampp\htdocs\trabajo\c#\gitHub\bin\Debug\net7.0\gitHub.deps.json
+C:\xampp\htdocs\trabajo\c#\gitHub\bin\Debug\net7.0\gitHub.runtimeconfig.json
+C:\xampp\htdocs\trabajo\c#\gitHub\bin\Debug\net7.0\gitHub.dll
+C:\xampp\htdocs\trabajo\c#\gitHub\bin\Debug\net7.0\gitHub.pdb
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.AssemblyInfoInputs.cache
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.AssemblyInfo.cs
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.dll
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\refint\gitHub.dll
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.pdb
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\gitHub.genruntimeconfig.cache
+C:\xampp\htdocs\trabajo\c#\gitHub\obj\Debug\net7.0\ref\gitHub.dll
