@@ -12,6 +12,7 @@ namespace gitHub
       Console.WriteLine(sum1);
       Console.WriteLine(sum2);
       Console.WriteLine(sum3);
+      Console.WriteLine(sum3+sum2);
      }
   }
 }
